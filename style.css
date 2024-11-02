@@ -1,5 +1,30 @@
-﻿.box{
-    height:100px;
-    width:100px;
-    background-color:blue;
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana,sans-serif,Arial;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:crimson;
+}
+p{
+    font-size:1.5rem;
+    color:blue;
+    padding:5px;
+}
+.voice-text{
+    height:auto;
+    width:80%;
+    border:3px solid black;
+    border-radius:5px;
+    background-color:yellow;
+    display:flex;
+    justify-content:center;
+    align-items:center;
 }
