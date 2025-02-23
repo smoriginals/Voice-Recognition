@@ -1,1 +1,1 @@
-[OPEN IN BROWSER](https://smos-github.github.io/Voice-Recognition/) `Only Works in FireFOx`
+[OPEN IN BROWSER](https://smoriginals.github.io/Voice-Recognition/) `Only Works in FireFOx`
